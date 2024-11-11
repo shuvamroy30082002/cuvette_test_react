@@ -1,0 +1,7 @@
+/* Basic CSS reset for cross-browser consistency */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  

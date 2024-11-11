@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7ecdc;
+    color: #333;
+    height: 100vh;
+    display: flex;
+  }
+  
+  .container {
+    width: 100%;
+    display: flex;
+  }
+  
+  .main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f7ecdc;
+  }
+  
+  .lock-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    font-size: 0.9rem;
+  }
+  

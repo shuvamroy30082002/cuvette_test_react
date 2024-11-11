@@ -1,0 +1,44 @@
+.sidebar {
+    width: 20%;
+    background-color: #fff;
+    padding: 1rem;
+    border-right: 1px solid #ddd;
+  }
+  
+  .create-group-btn {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .groups {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .group {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .group-icon {
+    width: 2rem;
+    height: 2rem;
+    background-color: #f48fb1;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+  }
+  
